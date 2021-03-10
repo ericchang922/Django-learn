@@ -1,0 +1,1 @@
+Django prectice note on MacOS
